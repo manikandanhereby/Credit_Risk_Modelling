@@ -1,4 +1,4 @@
-# Credit_Risk_Modelling
+# General
 
 rd calculator
 
